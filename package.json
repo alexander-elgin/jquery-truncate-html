@@ -1,7 +1,7 @@
 {
-  "name": "truncate",
+  "name": "jquery-truncate-html",
   "version": "0.0.1",
-  "repository": "https://github.com/pathable/truncate.git",
+  "repository": "https://github.com/alexander-elgin/jquery-truncate-html.git",
   "scripts": {
     "test": "phantomjs ./test/vendor/runner.js ./test/index.html?noglobals=true"
   },
