@@ -1,0 +1,28 @@
+{
+  "name": "jquery-truncate-html",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alexander-elgin/jquery-truncate-html.git",
+  "authors": [
+    "Alex Elgin <sascha.elgin@gmail.com>"
+  ],
+  "description": "Truncate HTML text not breaking the HTML structure",
+  "main": "jquery.truncate.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "truncate",
+    "html",
+    "text",
+    "js",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
