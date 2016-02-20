@@ -1,5 +1,13 @@
 [![Build Status](https://travis-ci.org/pathable/truncate.png?branch=master)](https://travis-ci.org/pathable/truncate)
 
+## Install
+
+### Bower
+`bower install jquery-truncate-html`
+
+### NPM
+`npm install jquery-truncate-html`
+
 ## Usage
 
 ### jQuery.truncate(html, options)
