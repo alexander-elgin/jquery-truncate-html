@@ -12,6 +12,8 @@
   ],
   "keywords": [
     "truncate",
+    "limit",
+    "maxlength",
     "html",
     "text",
     "js",
