@@ -20,6 +20,9 @@
     "jquery"
   ],
   "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
